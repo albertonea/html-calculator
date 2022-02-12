@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdd81d66-71c3-4c9c-87f7-df685b467c38" name="Changes" comment="fanc">
-      <change afterPath="$PROJECT_DIR$/css/calculator.css" afterDir="false" />
+    <list default="true" id="cdd81d66-71c3-4c9c-87f7-df685b467c38" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/calculator.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/calculator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/calculator.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/calculator.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1644616972923</updated>
       <workItem from="1644616974152" duration="1390000" />
-      <workItem from="1644666830771" duration="7905000" />
+      <workItem from="1644666830771" duration="8344000" />
     </task>
     <task id="LOCAL-00001" summary="calculator">
       <created>1644617030930</created>
@@ -74,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644617608279</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fancy calculator">
+      <created>1644674797125</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1644674797125</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +87,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="calculator" />
     <MESSAGE value="calculator add google analytics" />
-    <option name="LAST_COMMIT_MESSAGE" value="calculator add google analytics" />
+    <MESSAGE value="fancy calculator" />
+    <option name="LAST_COMMIT_MESSAGE" value="fancy calculator" />
   </component>
 </project>
